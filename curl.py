@@ -128,5 +128,5 @@ def guvenlik_kontrolu(url):
     yanit_(url, ["error", "not found", "exception", "warning", "fail", "invalid", "unauthorized", "forbidden", "access denied"])
 
 if __name__ == "__main__":
-    site_url = input("Site URL'sini girin: ")
+    site_url = input("HTTPS site URL'sini girin: ")
     guvenlik_kontrolu(site_url)
