@@ -27,7 +27,7 @@ print(Fore.RED + """
       \   ;     )  |
        )`)|     |  |  curl 1.0v
        |  |     |  |
-       |  |     |(o) coded by enesxsec and ghost0x02
+       |  |     |(o) 
        |(o)     /  \ 
        /  |     \(\_"> 
        \(\_)   
